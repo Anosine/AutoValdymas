@@ -1,9 +1,11 @@
 Autoparko valdymo sistema
 
 reikalavimai:
-Web app 
+Web app negal
 User create
-API get car models
+API get scar models
 API get maps
+
+whtas
 
 what
